@@ -52,6 +52,10 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" height="40" width="40"/>
     <a href="https://www.linkedin.com/in/joshua-perry-480663224/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" height="40" width="40"/></a>
   </div>
+
+  ---
+
+  :fire: My Stats:
 </div>
 
 <!--
