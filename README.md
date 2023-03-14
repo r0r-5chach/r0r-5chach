@@ -51,7 +51,7 @@
 ## :fire: My Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=r0r-5chach&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r0r-5chach&theme=tokyonight&show_icons=true&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r0r-5chach)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r0r-5chach&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **r0r-5chach/r0r-5chach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
