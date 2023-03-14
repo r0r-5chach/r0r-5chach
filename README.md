@@ -1,9 +1,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=r0r-5chach&style=for-the-badge&color=blueviolet" alt=""/>
   <div id="platforms">
-
   ---
-
     Platforms
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" height="40" width="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" height="40" width="40"/>
@@ -12,9 +10,7 @@
   </div>
   
   <div id="devops">
-
   ---
-
     Devops
     <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original-wordmark.svg" height="40" width="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" height="40" width="40"/>
@@ -22,9 +18,7 @@
   </div>
   
   <div id="langs">
-
   ---
-
     Languages
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" height="40" width="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" height="40" width="40"/>
@@ -36,18 +30,14 @@
   </dv>
   
   <div id="db">
-
   ---
-
     Databases
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" height="40" width="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" height="40" width="40"/>
   </div>
   
   <div id="software">
-
   ---
-
     Software and Profiles
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" height="40" width="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" height="40" width="40"/>
