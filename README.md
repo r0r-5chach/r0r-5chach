@@ -1,5 +1,7 @@
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=r0r-5chach&style=for-the-badge&color=blueviolet" alt=""/>
+<div>
+  <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=r0r-5chach&style=for-the-badge&color=blueviolet" alt=""/>
+  </div>
     
   ---
     
