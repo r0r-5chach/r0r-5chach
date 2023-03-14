@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=r0r-5chach&style=for-the-badge&color=blueviolet" alt=""/>
   <div id="platforms">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" height="40" width="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" height="40" width="40"/>
