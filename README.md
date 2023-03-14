@@ -49,7 +49,7 @@
 ---
 
 ## :fire: My Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=r0r-5chach&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=r0r-5chach&theme=tokyonight-duo&hide_border=false)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r0r-5chach&theme=tokyonight&show_icons=true)
 
 <!--
