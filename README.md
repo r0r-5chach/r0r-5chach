@@ -12,8 +12,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" height="40" width="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original-wordmark.svg" height="40" width="40"/>
   </div>
-    
-  ---
 
   Devops
   <div id="devops">
@@ -21,8 +19,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" height="40" width="40"/>
     <a href="https://hub.docker.com/u/r0r5chach"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" height="40" width="40"/></a>
   </div>
-  
-  ---
 
   Languages
   <div id="langs">
@@ -33,17 +29,13 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" height="40" width="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height="40" width="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" height="40" width="40"/>
-  </dv>
-    
-  ---
+  </div>
   
   Databases
   <div id="db">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" height="40" width="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" height="40" width="40"/>
   </div>
-  
-  ---
 
   Software and Profiles
   <div id="software">
