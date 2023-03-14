@@ -51,7 +51,9 @@
 
   :fire: My Stats:
   <div id="streak">
-[![GitHub Streak](https://streak-stats.demolab.com?user=r0r-5chach&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
+    ```md
+    [![GitHub Streak](https://streak-stats.demolab.com?user=r0r-5chach&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
+    ```
   </div>
 </div>
 
